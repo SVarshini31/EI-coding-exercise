@@ -13,16 +13,4 @@ It demonstrates:
 - Mark tasks as completed.
 - View tasks by priority.
 
-## How to Run
-1. Extract the zip file:
-   ```bash
-   unzip AstronautScheduler_Java.zip
-   cd AstronautScheduler_Java/src
-   ```
-
-2. Compile and run:
-   ```bash
-   javac *.java
-   java Main
-   ```
 
